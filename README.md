@@ -80,10 +80,6 @@ Displays suggested recipes based on identified ingredients, with filtering optio
  - Recipe Generation: Xavier Tan Zen
  - Object Detection: Jithin Bathula, Augustine
 
-## Contact
-For any inquiries or further information, please feel free to reach out:
-  - Project Maintainer: Parth - @JithinBathula
-
 ## Citations
  - YouTube Video for ML Model Integration: [Deploy YOLO model in Android](https://www.youtube.com/watch?v=aLgF--7aNNc&t=671s)
  - Roboflow Dataset for Ingredients: [Cairo University](https://universe.roboflow.com/cairo-university-evqqa/food-azc1s)
